@@ -1,0 +1,7 @@
+C:\Fahren\Repos\inheritancemobil\inheritancemobil\bin\Debug\inheritancemobil.exe.config
+C:\Fahren\Repos\inheritancemobil\inheritancemobil\bin\Debug\inheritancemobil.exe
+C:\Fahren\Repos\inheritancemobil\inheritancemobil\bin\Debug\inheritancemobil.pdb
+C:\Fahren\Repos\inheritancemobil\inheritancemobil\obj\Debug\inheritancemobil.csprojAssemblyReference.cache
+C:\Fahren\Repos\inheritancemobil\inheritancemobil\obj\Debug\inheritancemobil.csproj.CoreCompileInputs.cache
+C:\Fahren\Repos\inheritancemobil\inheritancemobil\obj\Debug\inheritancemobil.exe
+C:\Fahren\Repos\inheritancemobil\inheritancemobil\obj\Debug\inheritancemobil.pdb

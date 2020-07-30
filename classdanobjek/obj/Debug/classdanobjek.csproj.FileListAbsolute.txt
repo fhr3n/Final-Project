@@ -1,0 +1,7 @@
+C:\Fahren\Repos\classdanobjek\classdanobjek\bin\Debug\classdanobjek.exe.config
+C:\Fahren\Repos\classdanobjek\classdanobjek\bin\Debug\classdanobjek.exe
+C:\Fahren\Repos\classdanobjek\classdanobjek\bin\Debug\classdanobjek.pdb
+C:\Fahren\Repos\classdanobjek\classdanobjek\obj\Debug\classdanobjek.csproj.CoreCompileInputs.cache
+C:\Fahren\Repos\classdanobjek\classdanobjek\obj\Debug\classdanobjek.exe
+C:\Fahren\Repos\classdanobjek\classdanobjek\obj\Debug\classdanobjek.pdb
+C:\Fahren\Repos\classdanobjek\classdanobjek\obj\Debug\classdanobjek.csprojAssemblyReference.cache
